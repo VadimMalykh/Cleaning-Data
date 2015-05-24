@@ -17,8 +17,8 @@ This script does the following:
 
 As a result it creates two datasets (R data frames):
 
-  **X** - containes read and cleaned data as described by steps 1-4
-  **tidyX** - containes tidy data set as described by step 5
+  * **X** - containes read and cleaned data as described by steps 1-4
+  * **tidyX** - containes tidy data set as described by step 5
 
 It also saves tidy dataset as text file tidy.txt to the raw data directory.
 
